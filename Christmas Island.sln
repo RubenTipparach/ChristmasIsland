@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1C5112B8-1B01-0632-B584-8ED68CAE206D}") = "Christmas Island", "Assembly-CSharp-firstpass.csproj", "{392789A8-D75C-A13B-2F11-2A75DB9232FC}"
+EndProject
+Project("{1C5112B8-1B01-0632-B584-8ED68CAE206D}") = "Christmas Island", "Assembly-CSharp.csproj", "{86C67E26-49C6-6D11-E433-23FDC545227D}"
+EndProject
+Project("{1C5112B8-1B01-0632-B584-8ED68CAE206D}") = "Christmas Island", "Assembly-CSharp-Editor.csproj", "{131AFC23-8F70-A58B-6310-E94494832D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392789A8-D75C-A13B-2F11-2A75DB9232FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392789A8-D75C-A13B-2F11-2A75DB9232FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392789A8-D75C-A13B-2F11-2A75DB9232FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392789A8-D75C-A13B-2F11-2A75DB9232FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C67E26-49C6-6D11-E433-23FDC545227D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C67E26-49C6-6D11-E433-23FDC545227D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C67E26-49C6-6D11-E433-23FDC545227D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C67E26-49C6-6D11-E433-23FDC545227D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131AFC23-8F70-A58B-6310-E94494832D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131AFC23-8F70-A58B-6310-E94494832D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131AFC23-8F70-A58B-6310-E94494832D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131AFC23-8F70-A58B-6310-E94494832D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+					GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
